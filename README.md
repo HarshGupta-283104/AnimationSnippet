@@ -3,7 +3,12 @@ This Repo is for animation Snippet In this Repo You will get every type of Anima
 # How to use
 1. You can write In this formate for ImageTrail Animation.
 2. Use This Code Formate.<br>
-bash`import ImageTrail from './ImageTrailAnimation'
+
+
+export default App
+
+```bash
+import ImageTrail from './ImageTrailAnimation'
 function App() {
 
  const ImageArray = ['Src/1.jpg','Src/2.jpg','Src/3.jpg']
@@ -19,5 +24,4 @@ function App() {
     </div>
   )
 }
-
-export default App
+```
